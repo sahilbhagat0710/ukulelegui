@@ -1,0 +1,47 @@
+int ukulelemainclass()
+{  
+  	int Stringnumber = 0;
+	int Necklength = 4;
+	int Circlesize;
+	char woodtype = ‘b’;
+
+  cout << "Please enter an integer value: ";
+  cin >> woodtype;
+  cout << "The value you entered is " << woodtype;
+ 
+if(wood type ==‘b’)
+{
+	continue()
+	return 0;
+
+}
+ 
+
+while (wodtype ==‘b’ || woodtype==‘B’)
+
+{ 
+	cout <<enter the number of strings <<endl
+	cin >> Stringnumber;
+
+if(Stringnumber == 3)
+	cout << perfect and now go to next stage.
+
+else
+	cout << enter again
+
+return 0;
+}
+
+cout << enter the circle size;
+cin >> Circlesize;
+
+if(Circlesize  ==2 || Circlesize ==3 )
+{ 
+cout << perfect, now your ukulele is ready
+
+else
+  out << enter again
+
+} 
+
+return 0;
